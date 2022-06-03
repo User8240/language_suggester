@@ -1,0 +1,18 @@
+.font {
+  font-family: helvetica;
+  font-size: large;
+}
+
+.btn {
+  display: block;
+  margin: auto;
+  background-color:lightskyblue;
+}
+
+#questionsForm {
+  text-align: left;
+}
+
+.results {
+  text-align: center;
+}
