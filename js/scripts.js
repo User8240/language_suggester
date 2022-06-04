@@ -148,12 +148,16 @@ $(document).ready(function() {
   } else if (gender === "other" && swift === "no" && C === "yes" && python === "no" && noodle === "yes") {
     $("#language").text("C#");  
   } else {
-    $("#language").text("C#");
+    $("#language").text("- Please select all boxes -");
   }
   });
   $("#hideResults").click(function(event) {
     $("#language").text("");
     $("#name").val("");
-    $("gender").text("");
+    $("#gender").val("");
+    $("#swift").val("");
+    $("#c").val("");
+    $("#python").val("");
+    $("#noodle").val("");
   });
 });
