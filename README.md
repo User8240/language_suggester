@@ -16,7 +16,7 @@ _This is a webpage written in HTML using JavaScript & JQuery for functionality, 
 
 ## Link to Site via GitHub Pages
 
-* _https://github.com/User8240/language_suggester.git_
+* _https://user8240.github.io/language_suggester/_
 
 ## Setup/Installation Requirements
 
