@@ -42,7 +42,6 @@ $(document).ready(function() {
     $("#language").text("C#");
   } else if (gender === "male" && swift === "no" && C === "yes" && python === "no" && noodle === "yes") {
     $("#language").text("C#");  
-
   } else if (gender === "female" && swift === "yes" && C === "yes" && python === "yes" && noodle === "yes") {
     $("#language").text("JavaScript");
   } else if (gender === "female" && swift === "yes" && C === "yes" && python === "yes" && noodle === "no") {
@@ -77,7 +76,6 @@ $(document).ready(function() {
     $("#language").text("C#");
   } else if (gender === "female" && swift === "no" && C === "yes" && python === "no" && noodle === "yes") {
     $("#language").text("C#");  
-  
   } else if (gender === "non-binary" && swift === "yes" && C === "yes" && python === "yes" && noodle === "yes") {
     $("#language").text("JavaScript");
   } else if (gender === "non-binary" && swift === "yes" && C === "yes" && python === "yes" && noodle === "no") {
@@ -112,7 +110,6 @@ $(document).ready(function() {
     $("#language").text("C#");
   } else if (gender === "non-binary" && swift === "no" && C === "yes" && python === "no" && noodle === "yes") {
     $("#language").text("C#");  
-
   } else if (gender === "other" && swift === "yes" && C === "yes" && python === "yes" && noodle === "yes") {
     $("#language").text("JavaScript");
   } else if (gender === "other" && swift === "yes" && C === "yes" && python === "yes" && noodle === "no") {
